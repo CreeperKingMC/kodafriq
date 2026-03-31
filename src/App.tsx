@@ -19,7 +19,9 @@ export default function App() {
             </div>
           </div>
           <a
-            href="#donate"
+            href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa"
+            target="_blank"
+            rel="noopener noreferrer"
             className="bg-kodafriq-blue text-white px-6 py-2 rounded-full font-semibold hover:bg-opacity-90 transition"
           >
             Support Our Mission
@@ -50,7 +52,9 @@ export default function App() {
             </div>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="#donate"
+                href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-kodafriq-black text-white px-8 py-4 rounded-lg font-bold text-center hover:bg-gray-800 transition shadow-lg"
               >
                 Donate to the Campaign
@@ -147,14 +151,14 @@ export default function App() {
                   </p>
                 </div>
                 <div className="flex flex-col gap-4">
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $50
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Contributes to the International Travel Fund</span>
-                  </button>
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  </a>
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $185
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Fully funds Eugenia’s Business Visa application</span>
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -173,14 +177,14 @@ export default function App() {
                   </p>
                 </div>
                 <div className="flex flex-col gap-4">
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $100
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Funds one night of professional lodging</span>
-                  </button>
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  </a>
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $400
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Covers ground transport and meals</span>
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -199,18 +203,18 @@ export default function App() {
                   </p>
                 </div>
                 <div className="flex flex-col gap-4">
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $75
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Funds 14 days of targeted LinkedIn ads</span>
-                  </button>
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  </a>
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $150
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Sponsors a "Seat at the Table" for a U.S. Executive</span>
-                  </button>
-                  <button className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group">
+                  </a>
+                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $500
                     <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Fully funds the "Proof of Work" video</span>
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -235,9 +239,14 @@ export default function App() {
                       className="w-full pl-8 pr-4 py-4 rounded-xl border-2 border-kodafriq-blue focus:outline-none focus:ring-2 focus:ring-blue-200 font-bold text-lg"
                     />
                   </div>
-                  <button className="bg-kodafriq-blue text-white p-4 rounded-xl font-bold hover:bg-opacity-90 transition shadow-md">
+                  <a 
+                    href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="bg-kodafriq-blue text-white p-4 rounded-xl font-bold hover:bg-opacity-90 transition shadow-md block text-center"
+                  >
                     Donate {customAmount ? `$${customAmount}` : "Now"}
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -283,7 +292,9 @@ export default function App() {
             Every dollar helps Eugenia and KodAfriq take this vital step toward creating jobs and providing world-class data solutions.
           </p>
           <a
-            href="#"
+            href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-white text-kodafriq-blue px-12 py-5 rounded-full font-bold text-2xl hover:scale-105 transition transform shadow-2xl"
           >
             Donate Now
