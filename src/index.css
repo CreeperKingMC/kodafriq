@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-kodafriq-blue: #0052CC;
+  --color-kodafriq-light: #EBF4FF;
+  --color-kodafriq-black: #0F172A;
+}
