@@ -41,13 +41,31 @@ export default function App() {
             </h1>
             <div className="text-lg text-gray-600 mb-8 space-y-4">
               <p>
-                Across Africa, brilliant, certified medical coders have mastered the complexities of U.S. healthcare. They have the talent; they just lack the bridge. Eugenia started KodAfriq to be that bridge.
+                The medical coding and billing industry is a multi-billion dollar sector, with a significant portion of U.S. healthcare operations outsourced to countries like India and the Philippines.
               </p>
               <p>
-                This September, Eugenia is traveling to the <strong>2026 Annual Revenue Cycle Conference in Las Vegas, NV</strong> to secure the contracts that turn months of training into lifelong, sustainable careers. When she steps onto that flight, she carries the dreams of her entire team—young professionals and parents who are ready to prove that "Made in Africa" means world-class.
+                KodAfriq’s mission is to bring that opportunity to Africa, and to prove that African talent can deliver at the same world-class standard.
               </p>
               <p>
-                Your donation isn't just funding a trip; it’s the "Yes" an African coder has been waiting for. By supporting this mission, you are helping us bring a multi-billion dollar industry to a continent that is ready to work and ready to rise. Help Eugenia open the door. Help KodAfriq bring the future home.
+                Across the African continent, there is no shortage of capable professionals—only a shortage of opportunity. Today, KodAfriq has already trained, and continues to train, hundreds of medical coding and billing specialists who are ready to work, ready to compete, and ready to contribute to the global healthcare ecosystem.
+              </p>
+              <p>
+                What stands in the way is access.
+              </p>
+              <p>
+                This September, Eugenia will travel to the 2026 Annual Revenue Cycle Conference in Las Vegas, where critical outsourcing partnerships are formed. Her goal is make KodAfriq known to the medical coding and billing world, creating real jobs and sustainable income for professionals across Africa.
+              </p>
+              <p>
+                This is about more than one company. It’s about addressing a major employment gap by unlocking access to a global, multi-billion dollar industry. It’s about building a pipeline of opportunity that can scale, impacting not just hundreds, but thousands of lives.
+              </p>
+              <p>
+                Your support helps make that possible.
+              </p>
+              <p className="font-bold">
+                Help Eugenia take KodAfriq to the global stage.
+              </p>
+              <p className="font-bold">
+                Help us create jobs, unlock opportunity, and bring this industry home.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -76,12 +94,12 @@ export default function App() {
             </div>
           </div>
           <div className="relative">
-            <h3 className="text-center font-bold text-gray-500 uppercase tracking-wider mb-4 text-lg">Meet a member of our team</h3>
+            <h3 className="text-center font-bold text-gray-500 uppercase tracking-wider mb-4 text-lg">Meet our team</h3>
             <div className="rounded-2xl overflow-hidden shadow-2xl border-8 border-white">
               <div className="aspect-[9/16] bg-gray-200 flex items-center justify-center">
                 <iframe
                   className="w-full h-full"
-                  src="https://www.youtube.com/embed/q9GF08xqfCA"
+                  src="https://www.youtube.com/embed/lQKNJ0TaobY"
                   title="KodAfriq Video"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -134,7 +152,17 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">Choose Your Impact</h2>
-            <p className="text-xl text-gray-600">Select a category below to fund a specific part of Eugenia’s mission.</p>
+            <p className="text-xl text-gray-600 mb-8">Select a category below to fund a specific part of Eugenia’s mission.</p>
+            
+            {/* Total Goal Summary */}
+            <div className="max-w-md mx-auto bg-kodafriq-blue text-white rounded-2xl p-6 shadow-xl mb-12">
+              <p className="text-sm uppercase tracking-widest opacity-80 mb-1">Total Campaign Goal</p>
+              <p className="text-5xl font-extrabold">$3,135</p>
+              <div className="mt-4 h-2 bg-white/20 rounded-full overflow-hidden">
+                <div className="h-full bg-white w-0 rounded-full"></div>
+              </div>
+              <p className="mt-2 text-sm opacity-80 italic">Help us reach our target to unlock opportunity.</p>
+            </div>
           </div>
           <div className="space-y-12">
             {/* Phase 1 */}
@@ -147,7 +175,7 @@ export default function App() {
                   </div>
                   <p className="text-kodafriq-blue font-bold mb-4">Goal: Secure Travel & Visa</p>
                   <p className="text-gray-600 text-lg leading-relaxed italic">
-                    "This funds the literal journey from Africa to the U.S. Your support provides the 'wings' needed to put KodAfriq’s leadership in front of the world’s top healthcare decision-makers."
+                    "this funds Eugenia's visa and travel to and from the United States, making it possible for her to attend the conference and represent KodAfriq on a global stage."
                   </p>
                 </div>
                 <div className="flex flex-col gap-4">
@@ -173,13 +201,13 @@ export default function App() {
                   </div>
                   <p className="text-kodafriq-blue font-bold mb-4">Goal: Conference Presence & Logistics</p>
                   <p className="text-gray-600 text-lg leading-relaxed italic">
-                    "To win U.S. contracts, Eugenia must be where the conversations happen. This ensures she has a base of operations in Las Vegas to represent our team with the dignity they deserve."
+                    "these funds cover her accommodation, in-country transportation, and meals during her time in Las Vegas, ensuring she is fully supported while representing KodAfriq at the conference."
                   </p>
                 </div>
                 <div className="flex flex-col gap-4">
                   <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $100
-                    <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Funds one night of professional lodging</span>
+                    <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Goes toward one night of lodging</span>
                   </a>
                   <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
                     Donate $400
@@ -189,35 +217,6 @@ export default function App() {
               </div>
             </div>
 
-            {/* Phase 3 */}
-            <div className="bg-gray-50 rounded-3xl p-8 md:p-12 border border-gray-100 shadow-sm">
-              <div className="grid md:grid-cols-3 gap-8 items-start">
-                <div className="md:col-span-2">
-                  <div className="flex items-center gap-4 mb-4">
-                    <span className="bg-kodafriq-blue text-white px-3 py-1 rounded-lg font-bold text-sm">PHASE 3</span>
-                    <h3 className="text-2xl font-bold text-kodafriq-black">The Growth Engine — $2,000</h3>
-                  </div>
-                  <p className="text-kodafriq-blue font-bold mb-4">Goal: Networking & Deal-Closing</p>
-                  <p className="text-gray-600 text-lg leading-relaxed italic">
-                    "This is where we turn a 'trip' into 'jobs.' This funds the high-stakes networking dinner, our professional brand video, and the digital tools needed to turn handshakes into signed contracts."
-                  </p>
-                </div>
-                <div className="flex flex-col gap-4">
-                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
-                    Donate $75
-                    <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Funds 14 days of targeted LinkedIn ads</span>
-                  </a>
-                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
-                    Donate $150
-                    <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Sponsors a "Seat at the Table" for a U.S. Executive</span>
-                  </a>
-                  <a href="https://www.zeffy.com/en-US/donation-form/one-handshake-in-las-vegas-a-generation-of-careers-in-africa" target="_blank" rel="noopener noreferrer" className="bg-white border-2 border-kodafriq-blue text-kodafriq-blue p-4 rounded-xl font-bold hover:bg-kodafriq-blue hover:text-white transition group block text-center">
-                    Donate $500
-                    <span className="block text-xs font-normal mt-1 opacity-70 group-hover:opacity-100">Fully funds the "Proof of Work" video</span>
-                  </a>
-                </div>
-              </div>
-            </div>
 
             {/* Custom Amount */}
             <div className="bg-blue-50 rounded-3xl p-8 md:p-12 border border-blue-100 shadow-sm">
